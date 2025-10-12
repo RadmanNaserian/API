@@ -29,5 +29,11 @@ namespace WebApplication1.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("hello")]
+        public string GetHello()
+        {
+            return "Hello from the second GET endpoint!";
+        }
     }
 }
