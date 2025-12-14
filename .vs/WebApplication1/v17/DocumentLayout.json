@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\source\\repos\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\documents\\github\\api\\webapplication1\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\documents\\github\\api\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\documents\\github\\api\\webapplication1\\controllers\\studentsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\documents\\github\\api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\documents\\github\\api\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE016-368D-40E6-8D06-7B2A88927DB5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,24 +58,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
-              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T15:29:00.531Z",
+              "DocumentIndex": 1,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-14T16:11:17.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:45:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentSystemController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\Controllers\\StudentSystemController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentSystemController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\Controllers\\StudentSystemController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentSystemController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:42:04.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T15:29:00.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\API\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
