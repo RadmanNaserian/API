@@ -40,7 +40,7 @@ namespace WebApplication1.Controllers
          [HttpPost("AddTeacher")]
         public async Task<IActionResult> AddStudent([FromBody] TeacherModel teacher)
         {
-            if (teacher == null || string.IsNullOrWhiteSpace(teacher.FirstName) || string.IsNullOrWhiteSpace(teacher.LastName) || teacher.FirstName = "string"
+            if (teacher == null || string.IsNullOrWhiteSpace(teacher.FirstName) || string.IsNullOrWhiteSpace(teacher.LastName) || teacher.FirstName == "string"
             || teacher.LastName == "string")
             {
                 return BadRequest("Firstname and Lastname are required.");

@@ -1,0 +1,53 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.temp
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# .NET Core tools
+.dotnet/
+
+# Rider
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test results
+TestResults/
+
+# Coverage
+*.coverage
+*.coveragexml
+
+# Appsettings secrets
+appsettings.*.json
